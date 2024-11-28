@@ -26,4 +26,14 @@ API para la administración de médicos y pacientes
 >* Reemplaza las credenciales de acceso a la bd en el archivo application.properties
 >* Ejecuta el proyecto
 
+</br>
+</br>
+
+![Static Badge](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
+</br>
+![sp](https://img.shields.io/badge/SPRINGBOOT-white?style=for-the-badge&logo=spring&logoColor=white&labelColor=%236DB33F)
+</br>
+![sp](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4169E1)
+
+
 
